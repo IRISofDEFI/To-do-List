@@ -1,0 +1,58 @@
+📝 Simple To-Do List App
+
+A lightweight and responsive To-Do List built with HTML, CSS, and JavaScript.
+This app allows users to add and delete tasks dynamically, helping practice DOM manipulation and event handling.
+
+🚀 Features
+
+➕ Add new tasks easily
+
+❌ Delete tasks with a single click
+
+🎨 Clean and simple UI with hover effects
+
+📱 Responsive design
+
+🛠️ Technologies Used
+
+HTML5 – structure of the app
+
+CSS3 – styling and layout
+
+JavaScript (Vanilla) – functionality & DOM manipulation
+
+📸 Screenshot
+
+(Add a screenshot of your app here — you can take one and save it as screenshot.png in your repo)
+
+⚡ How to Run Locally
+
+Clone the repository:
+
+git clone https://github.com/your-username/todo-list-app.git
+
+
+Navigate into the project folder:
+
+cd todo-list-app
+
+
+Open index.html in your browser.
+
+🌱 Future Improvements
+
+Save tasks to local storage so they don’t disappear after refresh
+
+Add a “mark as completed” feature
+
+Implement edit task functionality
+
+📚 What I Learned
+
+Creating elements dynamically using document.createElement()
+
+Appending and removing child nodes in the DOM
+
+Using addEventListener() for interactive UI components
+
+Basic CSS for styling forms, buttons, and lists
